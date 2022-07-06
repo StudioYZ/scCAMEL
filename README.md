@@ -1,4 +1,6 @@
-# scCAMELi
+# scCAMEL
+
+single cell Cross- Annotation and Multimodal Estimation on Lineage trajectory
 pyTorch based classifier, and probabilistic assignment
 anndata
 
@@ -8,6 +10,5 @@ Neural-network based projection and single cell assignment "SWAPLINE.beta" is re
 
 
 How to use:
-import scCAMELiBeta_classifier.py as a function, and follow the jupyter notebook.
 
 Instruction details will come soon......
