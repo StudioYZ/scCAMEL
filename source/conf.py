@@ -48,8 +48,27 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = 'sphinx_rtd_theme'
-
+html_theme_options = dict(
+    navigation_depth=4,
+    logo_only=True,
+    docsearch_index='scCAMEL',
+    
+)
+html_context = dict(
+    display_github=True,  # Integrate GitHub
+    github_user='StudioYZ',  # Username
+    github_repo='scCAMEL',  # Repo name
+    github_version='master',  # Version
+    conf_py_path='/docs/',  # Path in the checkout to the docs root
+)
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_show_sphinx = False
+html_logo = '_static/img/scCAMELi4.png'
+
+plot_include_source = True
+plot_formats = [("png", 90)]
+plot_html_show_formats = False
+plot_html_show_source_link = False
