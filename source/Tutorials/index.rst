@@ -4,8 +4,8 @@ Tutorials
 this toolkit currently includes 3 sections:
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 3
+    :numbered: 3
 
     01_SWAPLINE_v2
     02_EVO
