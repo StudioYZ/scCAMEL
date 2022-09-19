@@ -7,6 +7,6 @@ this toolkit currently includes 3 sections:
     :maxdepth: 3
     :numbered: 3
 
-    01_SWAPLINE_v2
-    02_EVO
-    03_VICUNA
+    CAMEL_SWAPLINE_v2
+    CAMEL_EVO
+    CAMEL_VICUNA
