@@ -1,6 +1,8 @@
 Tutorials 
 ===========
 
+The tjupyter notebook will be coming soon
+
 this toolkit currently includes 3 sections:
 
 .. toctree::
