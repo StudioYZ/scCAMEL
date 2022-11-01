@@ -3,8 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-scCAMEL: COMING SOON...........22/10
+scCAMEL
 ====================================
+
+Pip installation via: https://pypi.org/project/scCAMEL/0.15b0/
+
+
 Author: Yizhou Hu, in Patrik Ernfors lab, MBB, Karolinska Institutet
 
 Reference: Hu Y.#, Jiang Y.#, Behnan J., Ribeiro MM., Kalantzi C., Zhang M., Lou D., Häring M., Sharma N., Okawa S., Del Sol A., Adameyko I., Svensson M., Persson O., Ernfors P., “Neural-network learning defines glioblastoma features to be of neural crest perivascular or radial glia lineages”, Science Advances, 2022 Jun 10;8(23) 
