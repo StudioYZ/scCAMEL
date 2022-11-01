@@ -1,7 +1,7 @@
 Tutorials 
 ===========
 
-The tjupyter notebook will be coming soon
+The tutorials in jupyter notebooks will be coming soon
 
 this toolkit currently includes 3 sections:
 
