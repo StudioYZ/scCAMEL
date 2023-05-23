@@ -1,5 +1,9 @@
 this part is CAMEL_SWAPLINE_version2.0
 
 
-
-source/Tutorials: scCAMEL_SWAPLINEv2/Tutorials_scCAMEL_SensoryNeurons_Training-SharmaMouse_Predict_ZeiselMouse.ipynb
+.. toctree::
+    :maxdepth: 2
+    :numbered: 1
+    
+    source/Tutorials: scCAMEL_SWAPLINEv2/index
+    source/Tutorials: scCAMEL_SWAPLINEv2/Tutorials_scCAMEL_SensoryNeurons_Training-SharmaMouse_Predict_ZeiselMouse
