@@ -12,7 +12,7 @@ scCAMEL_VICUNA
     :numbered: 3
 
     Tutorials/scCAMEL_SWAPLINE/index
-    CAMEL_EVO/index
-    CAMEL_VICUNA/index
+    Tutorials/scCAMEL_EVO/index
+    Tutorials/scCAMEL_VICUNA/index
     
     
