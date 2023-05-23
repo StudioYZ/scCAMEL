@@ -14,4 +14,4 @@ this part includes 1 section
     :maxdepth: 2
     :numbered: 1
 
-    01_Installation
+    Installation/01_Installation
