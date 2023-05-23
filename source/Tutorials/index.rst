@@ -9,7 +9,7 @@ scCAMEL_EVO
 scCAMEL_VICUNA
 .. toctree::
     :maxdepth: 3
-    :numbered: 3
+    :glob:
 
     Tutorials/scCAMEL_SWAPLINE/index
     Tutorials/scCAMEL_EVO/index
