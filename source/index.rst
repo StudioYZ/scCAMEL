@@ -22,12 +22,8 @@ Content:
    :maxdepth: 5
    :glob:
    
-   Tutorials/index
-   Tutorials/scCAMEL_SWAPLINE/index
-   Tutorials/scCAMEL_EVO/index
-   Tutorials/scCAMEL_VICUNA/index
-   Tutorials/scCAMEL_SWAPLINE
-   Tutorials_scCAMEL_SensoryNeurons_Training-SharmaMouse_Predict_ZeiselMouse.ipynb
-
    Installation/index
+   Tutorials-scCAMEL_SWAPLINEv2/index
+   Tutorials-scCAMEL_EVO/index
+   Tutorials-scCAMEL_VICUNA/index
    References/index
