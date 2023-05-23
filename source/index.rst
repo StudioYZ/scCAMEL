@@ -23,5 +23,8 @@ Content:
    :glob:
    
    Tutorials/index
+   Tutorials/scCAMEL_SWAPLINE/index
+   Tutorials/scCAMEL_EVO/index
+   Tutorials/scCAMEL_VICUNA/index
    Installation/index
    References/index
