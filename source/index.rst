@@ -28,8 +28,8 @@ Content:
 
 .. toctree::
    :maxdepth: 4
-   :glob:
-   
+   :caption: Contents:
+
    Installation/index.rst
    Tutorials_scCAMEL_SWAPLINEv2/index.rst
    Tutorials_scCAMEL_EVO/index.rst
