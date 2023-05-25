@@ -30,8 +30,8 @@ Content:
    :maxdepth: 4
    :caption: Contents:
 
-   Installation/index.rst
-   Tutorials_scCAMEL_SWAPLINEv2/index.rst
-   Tutorials_scCAMEL_EVO/index.rst
-   Tutorials_scCAMEL_VICUNA/index.rst
-   References/index.rst
+   Installation/index
+   Tutorials_scCAMEL_SWAPLINEv2/index
+   Tutorials_scCAMEL_EVO/index
+   Tutorials_scCAMEL_VICUNA/index
+   References/index
