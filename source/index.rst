@@ -27,11 +27,11 @@ https://www.science.org/doi/10.1126/sciadv.abm6340
 Content:
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 4
    :glob:
    
-   Installation/index
-   Tutorials_scCAMEL_SWAPLINEv2/index
-   Tutorials_scCAMEL_EVO/index
-   Tutorials_scCAMEL_VICUNA/index
-   References/index
+   Installation/index.rst
+   Tutorials_scCAMEL_SWAPLINEv2/index.rst
+   Tutorials_scCAMEL_EVO/index.rst
+   Tutorials_scCAMEL_VICUNA/index.rst
+   References/index.rst
