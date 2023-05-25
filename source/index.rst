@@ -31,7 +31,7 @@ Content:
    :glob:
    
    Installation/index.rst
-   Tutorials_scCAMEL_SWAPLINEv2/index.rst
-   Tutorials_scCAMEL_EVO/index.rst
-   Tutorials_scCAMEL_VICUNA/index.rst
+   Tutorials： scCAMEL_SWAPLINEv2/index.rst
+   Tutorials： scCAMEL_EVO/index.rst
+   Tutorials： scCAMEL_VICUNA/index.rst
    References/index.rst
