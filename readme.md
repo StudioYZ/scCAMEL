@@ -4,7 +4,7 @@
 
 contents：
 - Installation
-- Tutorials: scCAMEL_SWAPLINEv2
-- Tutorials: scCAMEL_EVO
-- Tutorials: scCAMEL_VICUNA
+- Tutorials_scCAMEL_SWAPLINEv2
+- Tutorials_scCAMEL_EVO
+- Tutorials_scCAMEL_VICUNA
 - References
