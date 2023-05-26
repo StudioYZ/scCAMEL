@@ -32,7 +32,6 @@ Content:
 
    Installation/index
    Tutorials_scCAMEL_SWAPLINEv2/index
-   Tutorials_scCAMEL_SWAPLINEv2/Tutorials_scCAMEL_SensoryNeurons_Training-SharmaMouse_Predict_ZeiselMouse
    Tutorials_scCAMEL_EVO/index
    Tutorials_scCAMEL_VICUNA/index
    References/index
