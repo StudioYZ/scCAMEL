@@ -5,3 +5,4 @@ Tutorials_scCAMEL_SWAPLINEv2
     :maxdepth: 1
       
     Tutorials_scCAMEL-SWAPLINE_SensoryNeurons
+    Tutorials_scCAMEL-SWAPLINE_mouseDentateGyrus_humanGlioblastoma
