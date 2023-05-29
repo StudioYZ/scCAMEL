@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'scCAMELi'
-copyright = '2022, Yizhou Hu, YZstudio, Ernfors lab, Karolisnka Inst.'
+project = 'scCAMEL'
+copyright = '2023, Yizhou Hu, YZstudio, Ernfors lab, Karolisnka Inst.'
 author = 'Yizhou Hu'
 
 # The full version, including alpha/beta/rc tags
