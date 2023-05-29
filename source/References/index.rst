@@ -6,7 +6,6 @@ Hu Y.#, Jiang Y.#, Behnan J., Ribeiro MM., Kalantzi C., Zhang M., Lou D., Härin
 https://www.science.org/doi/10.1126/sciadv.abm6340
 ============================================================================================
 
-SWAPLINE classifier contributes to:
 
 (1). Kupari, J., Usoskin, D., Parisien, M., Lou, D., Hu, Y., Fatt, M., Lonnerberg, P., Spangberg, M., Eriksson, B., Barkas, N., Kharchenko, PV., Loré, K., Khoury, S., Diatchenko, L., Ernfors, P. (2021) “Single cell transcriptomics of primate sensory neurons identifies cell types associated with chronic pain”, Nat Commun. 2021 Mar 8;12(1):1510.
 
