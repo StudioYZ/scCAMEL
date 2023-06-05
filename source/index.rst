@@ -5,7 +5,7 @@
 
 scCAMEL
 ====================================
-.. image:: scCAMELi4.png
+.. image:: /scCAMEL/scCAMELi4.png
    :height: 100px
    :width: 200 px
    :scale: 50 %
