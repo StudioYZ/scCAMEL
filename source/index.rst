@@ -5,6 +5,12 @@
 
 scCAMEL
 ====================================
+.. image:: /path/to/image.png
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: center
 
 Pip installation via: https://pypi.org/project/scCAMEL/
 
