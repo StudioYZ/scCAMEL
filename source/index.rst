@@ -6,9 +6,9 @@
 scCAMEL
 ====================================
 .. image:: _static/img/scCAMELi4.png
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
+   :height: 150px
+   :width: 300 px
+   :scale: 100 %
    :alt: alternate text
    :align: center
 
