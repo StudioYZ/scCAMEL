@@ -6,3 +6,4 @@ Tutorials_scCAMEL_SWAPLINEv2
       
     Tutorials_scCAMEL-SWAPLINE_SensoryNeurons
     Tutorials_scCAMEL-SWAPLINE_mouseDentateGyrus_humanGlioblastoma
+    Tutorials_scCAMEL-SWAPLINE_LiverMacrophage
