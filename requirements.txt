@@ -3,4 +3,6 @@ sphinx-rtd-theme>=2.0.0
 nbsphinx>=0.9.3
 ipykernel
 nbclean
+# other dependencies as needed
+
 
