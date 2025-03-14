@@ -27,7 +27,7 @@ https://www.science.org/doi/10.1126/sciadv.abm6340
 Content:
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 5
    :caption: Contents:
 
    Installation/index
