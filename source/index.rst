@@ -16,7 +16,7 @@ Pip installation via: https://pypi.org/project/scCAMEL/
 
 **Developed by YZstudio**
 
-**Technical support from: Patrik Ernfors Lab (Karolinska Institute) and Ping Chen Lab (Karolinska Institute)**
+Technical support from: **Patrik Ernfors Lab** (Karolinska Institute) and **Ping Chen Lab** (Karolinska Institute)
 
 
 ====================================
