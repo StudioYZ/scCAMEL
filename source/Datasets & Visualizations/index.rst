@@ -11,7 +11,7 @@ Genome Sequence Archive: HRA004944, HRA004933 in https://ngdc.cncb.ac.cn/gsa-hum
 
 Shinyapps website of Integrated neuroblastoma scRNAseq data: https://yz-studio.shinyapps.io/suzhoupediatrics-devstatesofneuroblastomacell/
 
-Website for the visualization of other single-cell and spatial data will be released soon
+*Website for the visualization of other single-cell and spatial data will be released soon*
 
 =======================================================================================
 
