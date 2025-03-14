@@ -3,7 +3,7 @@ Datasets & Visualizations
 
 *Neuroblastoma*
 
-1. Yunyun Xu*, Daohua Lou*, Ping Chen*, Gang Li*, Dimtry Usoskin, Jian Pan, Fang Li, Shungen Huang, Caroline Hess, Ruze Tang, Xiaohan Hu, Juanjuan Yu, Maria Arceo, Ronald R. de Krijger, Arthur S. Tischler, Susanne Schlisio, Patrik Ernfors#, Yizhou Hu#, Jian Wang# 'Single-cell MultiOmics and spatial transcriptomics demonstrate neuroblastoma developmental plasticity' In press
+1. Yunyun Xu*, Daohua Lou*, Ping Chen*, Gang Li*, Dimtry Usoskin, Jian Pan, Fang Li, Shungen Huang, Caroline Hess, Ruze Tang, Xiaohan Hu, Juanjuan Yu, Maria Arceo, Ronald R. de Krijger, Arthur S. Tischler, Susanne Schlisio, Patrik Ernfors#, Yizhou Hu#, Jian Wang# 'Single-cell MultiOmics and spatial transcriptomics demonstrate neuroblastoma developmental plasticity' (Accepted)
 
 Genome Sequence Archive: HRA004944, HRA004933 in https://ngdc.cncb.ac.cn/gsa-human/
 
