@@ -1,7 +1,6 @@
-sphinx>=7.2.6
-#sphinx-rtd-theme>=2.0.0
-nbsphinx>=0.9.3
+sphinx>=1.4
 ipykernel
+nbsphinx>=0.4
 nbclean
 # other dependencies as needed
 
