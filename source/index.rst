@@ -15,9 +15,7 @@ scCAMEL
 Pip installation via: https://pypi.org/project/scCAMEL/
 
 
-**Author**: Yizhou Hu, 
-
-A joint work of YZstudio & Patrik Ernfors lab, Karolinska Institutet
+**A joint work of YZstudio & Patrik Ernfors lab, Karolinska Institutet**
 
 
 ====================================
