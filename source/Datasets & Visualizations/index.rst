@@ -1,7 +1,7 @@
 Datasets & Visualizations
 ======================
 
-*Neuroblastoma*
+**Neuroblastoma**
 
 1. Yunyun Xu*, Daohua Lou*, Ping Chen*, Gang Li*, Dimtry Usoskin, Jian Pan, Fang Li, Shungen Huang, Caroline Hess, Ruze Tang, Xiaohan Hu, Juanjuan Yu, Maria Arceo, Ronald R. de Krijger, Arthur S. Tischler, Susanne Schlisio, Patrik Ernfors#, Yizhou Hu#, Jian Wang# 'Single-cell MultiOmics and spatial transcriptomics demonstrate neuroblastoma developmental plasticity' (Accepted)
 
@@ -13,7 +13,7 @@ Website for the visualization of other single-cell and spatial data will be rele
 
 
 
-*Psoriasis*
+**Psoriasis**
 
 1. "Single cell transcriptional zonation of human psoriasis skin identifies an alternative immunoregulatory axis", <Cell Death Dis.>, 2021 May 6;12(5):450. Link: https://pubmed.ncbi.nlm.nih.gov/33958582/
 
