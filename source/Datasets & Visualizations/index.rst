@@ -30,7 +30,7 @@ Gene Expression Omnibus: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE1
 
 Shinyapps website: https://yz-studio.shinyapps.io/shinyapph5ad/
 
-2. "Integrative single-cell transcriptomic investigation unveils long non-coding RNAs associated with localized cellular inflammation in psoriasis" <Front Immunol>2023 Sep 26:14:1265517. 
+ 2. "Integrative single-cell transcriptomic investigation unveils long non-coding RNAs associated with localized cellular inflammation in psoriasis" <Front Immunol>2023 Sep 26:14:1265517. 
 Link:https://pubmed.ncbi.nlm.nih.gov/37822943/
 
 Integrated dataset: 106, 675 cells from 11 healthy human skin and 79, 887 cells from 9 psoriatic human skin
