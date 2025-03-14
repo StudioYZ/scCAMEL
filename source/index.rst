@@ -33,7 +33,6 @@ Content:
    Tutorials_scCAMEL_SWAPLINEv2/index
    Tutorials_scCAMEL_EVO/index
    Tutorials_scCAMEL_VICUNA/index
-   scCAMEL_GUANACO/index
    scCAMEL_ALPACA/index
    Datasets_Visualizations/index
    References/index
