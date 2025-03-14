@@ -24,7 +24,7 @@ Gene Expression Omnibus: GSE159416 and GSE171287 in https://www.ncbi.nlm.nih.gov
 
 **Psoriasis**
 
-1. "Single cell transcriptional zonation of human psoriasis skin identifies an alternative immunoregulatory axis", <Cell Death Dis.>, 2021 May 6;12(5):450. Link: https://pubmed.ncbi.nlm.nih.gov/33958582/
+ 1. "Single cell transcriptional zonation of human psoriasis skin identifies an alternative immunoregulatory axis", <Cell Death Dis.>, 2021 May 6;12(5):450. Link: https://pubmed.ncbi.nlm.nih.gov/33958582/
 
 Gene Expression Omnibus: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162183
 
