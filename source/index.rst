@@ -14,12 +14,12 @@ scCAMEL
 
 Pip installation via: https://pypi.org/project/scCAMEL/
 
-Developed by **YZstudio, Karolinska Institutet** (https://ki.se/en/people/yizhou-hu)
+Developed by  `YZstudio (Karolinska Institutet, Sweden) <https://ki.se/en/people/yizhou-hu>`_
 
 **Github:** https://github.com/StudioYZ
 
 
-Technical support from: **Patrik Ernfors Lab** (Karolinska Institutet, Sweden)
+Technical support from: `Ernfors Lab (Karolinska Institutet, Sweden) <https://ki.se/en/research/research-areas-centres-and-networks/research-groups/patrik-ernfors-group>`_
 
 
 ====================================
