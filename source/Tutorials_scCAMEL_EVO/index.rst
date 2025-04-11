@@ -1,8 +1,8 @@
 Tutorials_scCAMEL_EVO
 =======================
-CAMELevo package for singlce-cell data integration across species is coming soon!
+**CAMELevo package for singlce-cell data integration across species is coming soon!Jupyter NoteBook of the workflow in the link below.**
 
-https://github.com/StudioYZ/humanDRGneurons2024
+Jupyter NoteBook:  https://github.com/StudioYZ/humanDRGneurons2024
 
 Part of the analysis has been applied for the research project below:
 
