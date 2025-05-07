@@ -14,7 +14,7 @@ Shinyapps website of Integrated neuroblastoma scRNAseq data: https://yz-studio.s
 
 Shinyapps website of neuroblastoma Spatial Transcriptomics data: https://yz-studio.shinyapps.io/NBL_SpatialTranscriptomics/
 
-Shinyapps website of single-cell MultiOmics (RNA+ATAC) data of mouse (Dbh-cre;MYCN, N2A) neuroblastoma cells : https://yz-studio.shinyapps.io/sz_scrna-atac_of_mousenblcells/
+Shinyapps website of single-cell MultiOmics (RNA+ATAC) data of mouse (Dbh-cre;MYCN, N2A) neuroblastoma cells : https://yz-studio.shinyapps.io/scMultiOmics_mouseNBLcells/
 
 ..........................................................................................................................
 =======================================================
