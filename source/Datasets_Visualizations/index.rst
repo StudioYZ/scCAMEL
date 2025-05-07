@@ -12,7 +12,7 @@ Genome Sequence Archive: HRA004944, HRA004933 in https://ngdc.cncb.ac.cn/gsa-hum
 
 Shinyapps website of Integrated neuroblastoma scRNAseq data: https://yz-studio.shinyapps.io/dev_nbl/
 
-Shinyapps website of neuroblastoma Spatial Transcriptomics data: https://yz-studio.shinyapps.io/NBL_SpatialTranscriptomics/
+Shinyapps website of neuroblastoma Spatial Transcriptomics data: https://yz-studio.shinyapps.io/NBL_ST/
 
 Shinyapps website of single-cell MultiOmics (RNA+ATAC) data of mouse (Dbh-cre;MYCN, N2A) neuroblastoma cells : https://yz-studio.shinyapps.io/scMultiOmics_mouseNBLcells/
 
