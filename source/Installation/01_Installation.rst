@@ -1,3 +1,4 @@
-01_Installation
+Installation Notes
+==================
 
-COMING SOON......22/10
+More detailed installation notes are coming soon.

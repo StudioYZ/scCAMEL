@@ -1,4 +1,4 @@
 scCAMEL_ALPACA
-=============
+==============
 
-scCAMEL_ALPACA for Multimodal analysis is coming soon.
+scCAMEL_ALPACA for multimodal analysis is coming soon.

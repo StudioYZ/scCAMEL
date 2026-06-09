@@ -22,7 +22,7 @@ copyright = '2025, Yizhou Hu, YZstudio, Karolisnka Inst.,Sweden; University of H
 author = 'Yizhou Hu'
 
 # The full version, including alpha/beta/rc tags
-release = '0.26b'
+release = '0.47b0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -30,8 +30,13 @@ release = '0.26b'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['nbsphinx'
+extensions = [
+    'nbsphinx',
 ]
+
+# Tutorials are committed with saved outputs. ReadTheDocs should render them,
+# not re-run local-data analyses during the documentation build.
+nbsphinx_execute = 'never'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -51,15 +56,13 @@ html_theme = 'sphinx_rtd_theme'
 html_theme_options = dict(
     navigation_depth=4,
     logo_only=True,
-    docsearch_index='scCAMEL',
-    
 )
 html_context = dict(
     display_github=True,  # Integrate GitHub
     github_user='StudioYZ',  # Username
     github_repo='scCAMEL',  # Repo name
     github_version='master',  # Version
-    conf_py_path='/docs/',  # Path in the checkout to the docs root
+    conf_py_path='/source/',  # Path in the checkout to the docs root
 )
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
