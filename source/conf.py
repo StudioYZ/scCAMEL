@@ -22,7 +22,7 @@ copyright = '2025, Yizhou Hu, YZstudio, Karolisnka Inst.,Sweden; University of H
 author = 'Yizhou Hu'
 
 # The full version, including alpha/beta/rc tags
-release = '0.47b0'
+release = '0.47b1'
 
 
 # -- General configuration ---------------------------------------------------

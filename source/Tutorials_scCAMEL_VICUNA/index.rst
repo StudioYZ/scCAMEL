@@ -1,7 +1,7 @@
 Tutorials_scCAMEL_VICUNA
 =============================
 
-The VICUNA workflow in scCAMEL supports ligand-receptor and intercellular communication analysis. The tutorial below demonstrates an NTN1-centered cross-dataset analysis using the published PyPI ``scCAMEL`` package.
+The VICUNA workflow in scCAMEL supports ligand-receptor and intercellular communication analysis. The tutorial below demonstrates an NTN1-centered cross-dataset analysis using the published PyPI ``scCAMEL`` 0.47b1 package.
 
 .. toctree::
    :maxdepth: 1

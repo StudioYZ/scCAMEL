@@ -11,7 +11,7 @@ To install the documented release used by the current tutorials:
 
 ::
 
-    pip install scCAMEL==0.47b0
+    pip install scCAMEL==0.47b1
 
 
 The original installation will be introduced here.Neural-network based projection and single cell assignment "SWAPLINE.beta" will be released in https://github.com/ernforslab/Hu-et-al._GBMlineage2022
